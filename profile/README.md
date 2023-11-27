@@ -1,6 +1,6 @@
 # Seleci
 
-A native crosschain swap powered by Lukso [Lukso](https://lukso.network/) .
+A native crosschain swap powered by [Lukso](https://lukso.network/) .
 
 <div align="center">
 <img https://github.com/Seleci/.github
